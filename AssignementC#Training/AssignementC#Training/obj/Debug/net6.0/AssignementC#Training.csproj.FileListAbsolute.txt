@@ -1,0 +1,15 @@
+C:\Rakhi\AssignementC#Training\AssignementC#Training\bin\Debug\net6.0\AssignementC#Training.exe
+C:\Rakhi\AssignementC#Training\AssignementC#Training\bin\Debug\net6.0\AssignementC#Training.deps.json
+C:\Rakhi\AssignementC#Training\AssignementC#Training\bin\Debug\net6.0\AssignementC#Training.runtimeconfig.json
+C:\Rakhi\AssignementC#Training\AssignementC#Training\bin\Debug\net6.0\AssignementC#Training.dll
+C:\Rakhi\AssignementC#Training\AssignementC#Training\bin\Debug\net6.0\AssignementC#Training.pdb
+C:\Rakhi\AssignementC#Training\AssignementC#Training\obj\Debug\net6.0\AssignementC#Training.csproj.AssemblyReference.cache
+C:\Rakhi\AssignementC#Training\AssignementC#Training\obj\Debug\net6.0\AssignementC#Training.GeneratedMSBuildEditorConfig.editorconfig
+C:\Rakhi\AssignementC#Training\AssignementC#Training\obj\Debug\net6.0\AssignementC#Training.AssemblyInfoInputs.cache
+C:\Rakhi\AssignementC#Training\AssignementC#Training\obj\Debug\net6.0\AssignementC#Training.AssemblyInfo.cs
+C:\Rakhi\AssignementC#Training\AssignementC#Training\obj\Debug\net6.0\AssignementC#Training.csproj.CoreCompileInputs.cache
+C:\Rakhi\AssignementC#Training\AssignementC#Training\obj\Debug\net6.0\AssignementC#Training.dll
+C:\Rakhi\AssignementC#Training\AssignementC#Training\obj\Debug\net6.0\refint\AssignementC#Training.dll
+C:\Rakhi\AssignementC#Training\AssignementC#Training\obj\Debug\net6.0\AssignementC#Training.pdb
+C:\Rakhi\AssignementC#Training\AssignementC#Training\obj\Debug\net6.0\AssignementC#Training.genruntimeconfig.cache
+C:\Rakhi\AssignementC#Training\AssignementC#Training\obj\Debug\net6.0\ref\AssignementC#Training.dll
